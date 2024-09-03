@@ -1,15 +1,15 @@
-class Calculator:
+def addition(x, y):
+    """sum"""
+    return x + y
 
-    def addi(self, x, y):
-        return x + y
+def subtraction(x, y):
+    """difference"""
+    return x - y
 
-    def subt(self, x, y):
-        return x - y
+def multiplication(x, y):
+    """product"""
+    return x * y
 
-    def mult(self, x, y):
-        return x * y
-
-    def divi(self, x, y):
-        if y == 0:
-            raise ValueError("Not")
-        return x / y
+def division(x, y):
+    """division"""
+    return x / y
