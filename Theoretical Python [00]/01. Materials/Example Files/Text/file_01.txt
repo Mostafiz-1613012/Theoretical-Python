@@ -1,1 +1,2 @@
-Read in the name of Allah (SWT)
+mostafiz
+This is a new line added to the file.
